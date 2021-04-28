@@ -33,6 +33,8 @@
 
 1. [Triple trouble](https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
 
+1. [Sudoku Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
+
 #### 7kyu
 
 1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
