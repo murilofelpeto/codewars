@@ -8,6 +8,15 @@
 <img src="https://tokei.rs/b1/github/murilofelpeto/codewars?category=files" width="100">
 
 ## Problems solved
+#### 4kyu
+
+1. [Sudoku Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
+
+#### 5kyu
+
+1. [Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+
+1. [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 
 #### 6kyu
 
@@ -32,8 +41,6 @@
 1. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 
 1. [Triple trouble](https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
-
-1. [Sudoku Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 #### 7kyu
 

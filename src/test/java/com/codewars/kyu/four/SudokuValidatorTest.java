@@ -1,4 +1,4 @@
-package com.codewars.kyu.six.sudoku;
+package com.codewars.kyu.four;
 
 import static org.junit.jupiter.api.Assertions.*;
 
