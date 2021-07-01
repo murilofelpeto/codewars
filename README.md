@@ -7,6 +7,9 @@
 <img src="https://tokei.rs/b1/github/murilofelpeto/codewars?category=code" width="200"> <img src="https://tokei.rs/b1/github/murilofelpeto/codewars?category=lines" width="175">
 <img src="https://tokei.rs/b1/github/murilofelpeto/codewars?category=files" width="100">
 
+# My Profile
+[Murilo Felpeto](https://www.codewars.com/users/murilofelpeto)
+
 ## Problems solved
 #### 4kyu
 
@@ -19,6 +22,8 @@
 1. [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 
 1. [Greed is good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)
+
+1 [Prime in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)
 
 #### 6kyu
 
