@@ -1,4 +1,4 @@
-package com.codewars.kyu.five;
+package com.codewars.kyu.five.validParentheses;
 
 public class ValidParentheses {
 

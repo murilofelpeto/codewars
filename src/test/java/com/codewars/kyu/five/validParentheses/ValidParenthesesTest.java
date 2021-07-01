@@ -1,8 +1,8 @@
-package com.codewars.kyu.five;
+package com.codewars.kyu.five.validParentheses;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
+import com.codewars.kyu.five.validParentheses.ValidParentheses;
 import org.junit.jupiter.api.Test;
 
 class ValidParenthesesTest {

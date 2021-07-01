@@ -18,6 +18,8 @@
 
 1. [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 
+1. [Greed is good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)
+
 #### 6kyu
 
 1. [Backspaces in string](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3)

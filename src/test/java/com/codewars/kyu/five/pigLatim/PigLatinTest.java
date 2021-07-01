@@ -1,7 +1,8 @@
-package com.codewars.kyu.five;
+package com.codewars.kyu.five.pigLatim;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import com.codewars.kyu.five.pigLatim.PigLatin;
 import org.junit.jupiter.api.Test;
 
 class PigLatinTest {
