@@ -44,6 +44,8 @@
 
 1. [Triple trouble](https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
 
+1. [Sum Dig Power](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
+
 #### 7kyu
 
 1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
